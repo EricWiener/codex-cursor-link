@@ -7,6 +7,7 @@ Codex Cursor Link is a small macOS helper that fixes this. Rest your mouse on th
 This is an unofficial community tool. It is not made by or affiliated with OpenAI.
 
 Example:
+
 <img width="668" height="190" alt="screenshot_2026-11-21_22_01_55" src="https://github.com/user-attachments/assets/e5ae409e-1733-4631-ac32-b300d06140be" />
 
 
